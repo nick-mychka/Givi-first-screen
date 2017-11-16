@@ -1,0 +1,50 @@
+/* font-family: "Drina"; */
+@font-face {
+	font-family: "Drina";
+	src: url("../fonts/Drina/Drina.eot");
+	src: url("../fonts/Drina/Drina.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Drina/Drina.woff") format("woff"),
+	url("../fonts/Drina/Drina.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Garamond-Bold"; */
+@font-face {
+	font-family: "Garamond-Bold";
+	src: url("../fonts/Garamond-Bold/Garamond-Bold.eot");
+	src: url("../fonts/Garamond-Bold/Garamond-Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Garamond-Bold/Garamond-Bold.woff") format("woff"),
+	url("../fonts/Garamond-Bold/Garamond-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "Garamond-Regular"; */
+@font-face {
+	font-family: "Garamond-Regular";
+	src: url("../fonts/Garamond-Regular/Garamond-Regular.eot");
+	src: url("../fonts/Garamond-Regular/Garamond-Regular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Garamond-Regular/Garamond-Regular.woff") format("woff"),
+	url("../fonts/Garamond-Regular/Garamond-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "OpenSans-Extrabold"; */
+@font-face {
+	font-family: "OpenSans-Extrabold";
+	src: url("../fonts/OpenSans-Extrabold/OpenSans-Extrabold.eot");
+	src: url("../fonts/OpenSans-Extrabold/OpenSans-Extrabold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/OpenSans-Extrabold/OpenSans-Extrabold.woff") format("woff"),
+	url("../fonts/OpenSans-Extrabold/OpenSans-Extrabold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "OpenSans-Light"; */
+@font-face {
+	font-family: "OpenSans-Light";
+	src: url("../fonts/OpenSans-Light/OpenSans-Light.eot");
+	src: url("../fonts/OpenSans-Light/OpenSans-Light.eot?#iefix")format("embedded-opentype"),
+		 url("../fonts/OpenSans-Light/OpenSans-Light.woff") format("woff"),
+		 url("../fonts/OpenSans-Light/OpenSans-Light.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
